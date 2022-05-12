@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'sementic-versioning';
+  //adding this comment to increment the version (minor version)
 }
