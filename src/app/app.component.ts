@@ -13,4 +13,6 @@ export class AppComponent {
     //adding this comment to increment the version (Major version)
     //to make changes
     //to make changes
+
+    //to make changes
 }
