@@ -11,5 +11,6 @@ export class AppComponent {
     //adding this comment to increment the version (patch version)
     //adding this comment to increment the version (minor version)
     //adding this comment to increment the version (Major version)
+    //to make changes
 
 }
